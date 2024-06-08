@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "900010338926",
+    "project_id": "demosoft-dbd03",
+    "storage_bucket": "demosoft-dbd03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900010338926:android:d81924ecb4e152c71ad47f",
+        "android_client_info": {
+          "package_name": "net.asgeri.soft31may"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnEsHzmFJZ_S5rLFHo5XO-iTgaHsH0eJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
